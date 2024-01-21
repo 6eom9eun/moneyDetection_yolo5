@@ -5,6 +5,6 @@
 `KT 에이블스쿨 4기`<br>
 
 <h2>'저시력자를 위한 원화 화폐 분류'</h2>
-Object Detection 문제
+Object Detection 과제
 </div><br>
 
